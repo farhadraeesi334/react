@@ -14,7 +14,7 @@ function App(){
       <Product image="O.jpg"  title="product1" detail="test1" price={50}/>
       <Product image="ww.jpg"  title="product2" detail="test2" price={1000}/>
       <Product image="O.jpg"  title="product3" detail="test3" price={60}/>
-      
+      </Footer>
      </div>
      
       
