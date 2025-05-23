@@ -2,7 +2,7 @@ import React from "react";
 import Menu from "Menu.jsx"
 import Header from "./Header.jsx";
 import Product from "./Product.jsx";
-import Footer from './Footer'
+import Footetr from "./Footer.jsx";
 import './App.css';
 function App(){
   return(
